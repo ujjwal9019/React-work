@@ -19,7 +19,7 @@ function Github() {
     </div>
   )
 }
-
+// This is more optimize then use effect
 export default Github
 
 export const githubInfoLoader = async () => {
